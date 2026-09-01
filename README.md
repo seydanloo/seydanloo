@@ -14,7 +14,7 @@ With a strong interest in software development and web technologies, my primary 
   <a href="https://linkedin.com/in/seydanloo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/seydanloo_reza">
+  <a href="https://t.me/seydanlooReza">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
